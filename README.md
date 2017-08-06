@@ -1,8 +1,8 @@
-# y
+# README
 
-> y
+> 下载项目到本地
 
-## Build Setup
+## run dev
 
 ``` bash
 # install dependencies
